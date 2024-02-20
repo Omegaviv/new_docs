@@ -1,6 +1,9 @@
 # neo_docs_task
 
-A new Flutter project.
+This project is developed with Flutter 3.16.9
+
+For quick test use
+```flutter run -d chrome```
 
 ## Getting Started
 
